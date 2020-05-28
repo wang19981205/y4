@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85f74199-0192-4007-adfa-5f01d2f6da77" name="Default Changelist" comment="6" />
+    <list default="true" id="85f74199-0192-4007-adfa-5f01d2f6da77" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590670942104</updated>
       <workItem from="1590670945035" duration="25000" />
-      <workItem from="1590672911942" duration="1540000" />
+      <workItem from="1590672911942" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1590672942179</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590673288110</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="123">
+      <created>1590674613357</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590674613357</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,12 +138,25 @@
     <MESSAGE value="4" />
     <MESSAGE value="5" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="0" width="1150" height="804" key="CommitChangelistDialog2" timestamp="1590673390882">
+    <state x="366" y="0" width="1150" height="804" key="CommitChangelistDialog2" timestamp="1590674612518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="366" y="0" width="1150" height="804" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590673390882" />
+    <state x="366" y="0" width="1150" height="804" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590674612518" />
+    <state x="622" y="278" width="273" height="260" key="Github.ShareDialog" timestamp="1590674680667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="278" width="273" height="260" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1590674680667" />
+    <state x="253" y="27" key="SettingsEditor" timestamp="1590674657738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="253" y="27" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590674657738" />
+    <state x="342" y="106" key="Vcs.Push.Dialog.v2" timestamp="1590674620877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="106" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590674620877" />
   </component>
 </project>
